@@ -1,6 +1,1 @@
-X: Discrete
-Y: Continous
-M: Continuous
-N: Discrete
-P: Discrete
-Q: Continuos
+Basyar Musyaffa
